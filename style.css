@@ -9,12 +9,11 @@ header {
   font-family: "Jersey 10", sans-serif;
 }
 main {
-  display: flex;
   background: #ffffff;
   color: #183C63;
   text-align: center;
   max-width: 800px;
-  margin: 16px 0 auto;
+  margin: 16p 0 auto;
   font-family: "Jersey 10", sans-serif;
 }
 img {
